@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.show {
+    background-color: bisque;
+    padding: 40px;
+}
+
+.hidden {
+    display: none;
+}
